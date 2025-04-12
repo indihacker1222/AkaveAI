@@ -112,6 +112,6 @@ For issues and support:
 
 ## Links
 
-- [GitHub Repository: AkaveAI](https://github.com/anishgajbhare/akaveai)  
-- [Demo Video: Watch Here](https://www.youtube.com/watch?v=your-demo-video)  
-- [Project Website: Visit Here](https://akaveai.xyz)
+- [GitHub Repository: AkaveAI](https://github.com/indihacker1222/AkaveAI.git)  
+- [Demo Video: Watch Here](https://youtu.be/yE1pMAqixU0)  
+- [Project Website: Visit Here](https://akave-ai-sand.vercel.app/)
