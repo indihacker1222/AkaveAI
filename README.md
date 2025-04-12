@@ -1,6 +1,6 @@
 # AkaveAI
 
-![AkaveAI Front Image](ethicaldatamarketplace/public/AkaveAI.png)
+![AkaveAI Front Image](ethicaldatamarketplace/public/AkaveAIfrontimage.png)
 
 ## Introduction  
 AkaveAI is a decentralized marketplace that enables developers to create, publish, and monetize AI Agents securely. Built using Filecoin and Akave, it allows users to discover, purchase, and deploy autonomous AI agents for various tasks—ensuring transparency, ethical AI use, and fair rewards for creators.
