@@ -1,5 +1,7 @@
 # AkaveAI
 
+![AkaveAI Front Image](/akaveai-front.png)
+
 ## Introduction  
 AkaveAI is a decentralized marketplace that enables developers to create, publish, and monetize AI Agents securely. Built using Filecoin and Akave, it allows users to discover, purchase, and deploy autonomous AI agents for various tasks—ensuring transparency, ethical AI use, and fair rewards for creators.
 
@@ -110,6 +112,6 @@ For issues and support:
 
 ## Links
 
-- GitHub Repository: AkaveAI  
-- Demo Video: Watch Here  
-- Project Website: Visit Here
+- [GitHub Repository: AkaveAI](https://github.com/anishgajbhare/akaveai)  
+- [Demo Video: Watch Here](https://www.youtube.com/watch?v=your-demo-video)  
+- [Project Website: Visit Here](https://akaveai.xyz)
