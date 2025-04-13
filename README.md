@@ -108,7 +108,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For issues and support:  
 - Open an issue on GitHub  
-- Contact us via email at anishgajbhare2000@gmail.com
+- Contact us via email at anishgajbhare1222@gmail.com
 
 ## Links
 
